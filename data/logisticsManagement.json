@@ -1,0 +1,28 @@
+{
+  "warehouses": [
+    {
+      "id": 4,
+      "name": "Warehouse Name",
+      "location": "Warehouse Location"
+    },
+    {
+      "id": 5,
+      "name": "Warehouse Name",
+      "location": "Warehouse Location"
+    }
+  ],
+  "shipments": [
+    {
+      "id": 3,
+      "item": "Umbrella",
+      "quantity": "100"
+    }
+  ],
+  "drivers": [
+    {
+      "id": 1,
+      "name": "Jose Naranjo"
+    }
+  ],
+  "vehicles": []
+}
